@@ -53,7 +53,7 @@
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)<br>
 <br>
 ## :computer: GitHub
-### Github Status
+### GitHub Status
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-Hyo-Jeong&show_icons=true&theme=tokyonight)
 ### Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Hyo-Jeong&layout=compact&theme=tokyonight)<br>
